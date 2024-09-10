@@ -1,0 +1,13 @@
+.btn{
+    text-decoration: none;
+    border: 3px solid pink;
+    padding: 5px;
+    border-radius: 8px;
+    color: pink;
+}
+
+.btn:hover{
+    background-color: rgb(132, 0, 255);
+    color:aqua;
+    padding: 7px;
+}
